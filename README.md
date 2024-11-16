@@ -1,9 +1,8 @@
-
-# Generic Linked List
+# Hash Table 
 
 ## Project Description
 
-This is an implementation of a generic linked list (as the title states) that uses a txt file to output values based on function calls, i.e., addToFront, deletion, etc. Files should contain 'items' (nodes) with id values, prices, and descriptions separated by whitespace.  
+This project implements a Hash Table using Linear Probing for collision resolution. The Hash Table is a fundamental data structure that allows for efficient insertion, deletion, and retrieval of key-value pairs where the next available index is used to handle collision. 
 
 ## Java Version
 
