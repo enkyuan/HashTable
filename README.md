@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project implements a Hash Table using Linear Probing for collision resolution. The Hash Table is a fundamental data structure that allows for efficient insertion, deletion, and retrieval of key-value pairs where the next available index is used to handle collision. 
+This project implements a Hash Table using Linear Probing for collision resolution, allowing for efficient insertion, deletion, and retrieval of key-value pairs where the next available index is used to handle collision. 
 
 ## Java Version
 
